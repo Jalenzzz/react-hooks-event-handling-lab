@@ -3,9 +3,6 @@ import ReactDOM from "react-dom";
 import EyesOnMe from "./components/EyesOnMe";
 import Keypad from "./components/Keypad";
 
-import Keypad from "./components/Keypad";
-import EyesOnMe from "./components/EyesOnMe";
-
 ReactDOM.render(
   <div>
     <Keypad />
